@@ -1,7 +1,7 @@
 (function(){
     //We asume sea food/fish is also meat
     //According to Health Canada, calamari belongs to the meat and meat alternatives food group.
-    var meats = ["ham","cocktail_sausages","salami", "shrimps", "mussels", "tuna", "calamari", "crab_meat", "anchovies", "minced_meat", "sausage", "kebab", "minced_beef"];
+    var meats = ["ham", "cocktail_sausages", "salami", "shrimps", "mussels", "tuna", "calamari", "crab_meat", "anchovies", "minced_meat", "sausage", "kebab", "minced_beef"];
     var cheese = ["mozzarella_cheese", "mozzarella", "parmesan_cheese", "blue_cheese", "goat_cheese"];
     var olives = ["green_olives", "black_olives", "olives"];
     
