@@ -70,7 +70,7 @@
         
         var response = {
            "personal_info":
-              {"full_name":"Marko Reljic", "email":"markoreljic992@gmail.com", "code_link": "link do tvog koda"},
+              {"full_name":"Marko Reljic", "email":"markoreljic992@gmail.com", "code_link": "https://github.com/Relja92/rendered"},
             "answer": [{"group_1": {"percentage": meatPizzas.length/pizzaNo*100+"%", "cheapest": meatPizzas[0]}},
                        {"group_2": {"percentage": moreCheese.length/pizzaNo*100+"%", "cheapest": moreCheese[0]}},
                        {"group_3": {"percentage": meatAndOlive.length/pizzaNo*100+"%", "cheapest": meatAndOlive[0]}},
