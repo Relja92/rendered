@@ -77,7 +77,7 @@
                        {"group_4": {"percentage": mozzarellaAndMushrooms.length/pizzaNo*100+"%", "cheapest":mozzarellaAndMushrooms[0]}}]
           }
         
-        console.log(response);
+        console.log(response); //This should not be here, it is just there to see what the result is. :)
         return response;
     })
 })();
